@@ -1,0 +1,20 @@
+header{
+    position: relative;
+    top: 0px;
+    border : 2px solid black;
+    padding: 5px;
+    width: 100vw;
+    display: flex;
+}
+
+/* body{
+    background-image: url('../image/monde.avif');
+} */
+
+/* background spécifique pour la grille4 */
+.grille-bg {
+    background-image: url('../image/plage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
